@@ -1,0 +1,4 @@
+module MapboxGLExtras
+plugin mapboxglextras ../
+HelloWorld 1.0 ../../../../../../MapboxGLExtras/src/qml/HelloWorld.qml
+
